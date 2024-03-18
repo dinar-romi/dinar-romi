@@ -1,7 +1,6 @@
-<h1 align="left">Hi 👋, I'm Dinar Romi</h1>
-<h2 align="left" style="text-decoration: none; border: none;">A Frontend Developer</h2>
+<div style:"font-size: 32px">Hi 👋, I'm Dinar Romi</div>
+<div style:"font-size: 20px">A Frontend Developer</div>
 
-## hallo
 
 <br>
 <br>
