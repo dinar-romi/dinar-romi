@@ -2,7 +2,6 @@
 ## A Frontend Developer
 
 <br>
-<br>
 
 <h3 align="left">Tech</h3>
 <div align="left">
