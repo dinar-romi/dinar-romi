@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left" style="line-height: 100%; border-bottom: 1px solid white;">Tech</h3>
+<h3 align="left">Tech</h3>
 
 ###
 
