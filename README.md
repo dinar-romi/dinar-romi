@@ -1,7 +1,8 @@
 <h1 align="left">Hi 👋, I'm Dinar Romi</h1>
 <h2 align="left">A Frontend Developer</h2>
-\
-\
+
+---
+---
 
 <h3 align="left">Tech</h3>
 <div align="left">
