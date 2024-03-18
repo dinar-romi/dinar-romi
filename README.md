@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Dinar Romi</h1>
-<h2 align="left">A Frontend Developer</h2>
+<h2 align="left" style="text-decoration: none">A Frontend Developer</h2>
 
 ## hallo
 
