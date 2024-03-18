@@ -20,6 +20,8 @@
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="30" alt="redux logo"  />
 </div>
 
+___
+
 <h3 align="left">Tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -32,6 +34,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
+
+***
 
 <h3 align="left">Social media</h3>
 <div align="left">
