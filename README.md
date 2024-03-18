@@ -1,9 +1,6 @@
-<span style:"font-size: 32px">Hi 👋, I'm Dinar Romi</span>
-<div style:"font-size: 20px">A Frontend Developer</div>
+# Hi 👋, I'm Dinar Romi
+## A Frontend Developer
 
-
-<br>
-<br>
 <br>
 <br>
 
@@ -23,7 +20,6 @@
 </div>
 
 <br>
-<br>
 
 <h3 align="left">Tools</h3>
 <div align="left">
@@ -39,7 +35,6 @@
 </div>
 
 <br>
-<br>
 
 <h3 align="left">Social media</h3>
 <div align="left">
@@ -49,7 +44,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
 </div>
 
-<br>
 <br>
 
 <h3 align="left">Contact</h3>
