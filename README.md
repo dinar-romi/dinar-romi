@@ -1,4 +1,4 @@
-<div style:"font-size: 32px">Hi 👋, I'm Dinar Romi</div>
+<span style:"font-size: 32px">Hi 👋, I'm Dinar Romi</span>
 <div style:"font-size: 20px">A Frontend Developer</div>
 
 
