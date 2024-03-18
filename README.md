@@ -1,17 +1,12 @@
 <h1 align="left">Hi 👋, I'm Dinar Romi</h1>
 <h2 align="left">A Frontend Developer</h2>
 
+<br>
+<br>
+<br>
+<br>
 
 <h3 align="left">Tech</h3>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -26,6 +21,8 @@
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="30" alt="redux logo"  />
 </div>
 
+<br>
+<br>
 
 <h3 align="left">Tools</h3>
 <div align="left">
@@ -40,6 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
+<br>
+<br>
 
 <h3 align="left">Social media</h3>
 <div align="left">
@@ -48,6 +47,9 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
 </div>
+
+<br>
+<br>
 
 <h3 align="left">Contact</h3>
 <div align="left">
