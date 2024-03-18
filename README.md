@@ -9,6 +9,7 @@
 <h3 align="left">Tech</h3>
 
 ###
+<hr />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -29,6 +30,7 @@
 <h3 align="left">Tools</h3>
 
 ###
+<hr />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -47,12 +49,26 @@
 <h3 align="left">Social media</h3>
 
 ###
+<hr />
 
 <div align="left">
-  <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=maesaroh@gmail.com" target="_blank">
+  <a href="https://www.linkedin.com/in/dinar-romi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
+
+<h3 align="left">Contact</h3>
+
+###
+<hr />
+
+<div align="left">
+  <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=dinarromi.pc@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/dinar-romi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
 </div>
+
+###
