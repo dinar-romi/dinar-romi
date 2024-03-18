@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">A passionate frontend developer from Indonesia</h2>
+<h2 align="left">A Frontend Developer</h2>
 
 ###
 
