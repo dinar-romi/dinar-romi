@@ -1,5 +1,5 @@
 # Hi 👋, I'm Dinar Romi
-## A Frontend Developer
+## Web Developer and Tech Enthusiast
 
 <br>
 
