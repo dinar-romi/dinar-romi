@@ -1,5 +1,5 @@
 # Hi 👋, I'm Dinar Romi
-## Tech Enthusiast
+## Software Engineer Enthusiast
 
 <br>
 
