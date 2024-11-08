@@ -3,6 +3,7 @@
 ###
 
 <p align="left">A Software Engineer Enthusiast</p>
+</br>
 
 ###
 
@@ -106,6 +107,7 @@
 
 ###
 
+</br>
 <h3 align="left">Contact</h3>
 
 ###
